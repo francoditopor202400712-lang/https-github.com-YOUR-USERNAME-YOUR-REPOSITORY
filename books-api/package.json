@@ -1,0 +1,14 @@
+{
+  "name": "books-api",
+  "version": "1.0.0",
+  "description": "A RESTful Books API built with Express.js (ITPE101 Laboratory Activity)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["express", "rest", "api", "crud"],
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
